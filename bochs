@@ -1,6 +1,0 @@
-romimage: file=/home/denove/Downloads/bios/bios/BIOS-bochs-latest
-vgaromimage: file=/home/denove/Downloads/bios/bios/VGABIOS-lgpl-latest
-ata0-slave: type=cdrom, path=/home/denove/ASM/OS/QuarkOS32/kernel.iso, status=inserted
-boot:cdrom
-display_library: wx, options = "gui_debug"
-mouse: enabled=1, type=ps2

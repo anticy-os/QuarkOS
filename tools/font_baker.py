@@ -3,7 +3,7 @@ import struct
 import sys
 import os
 
-FONT_FILENAME = "/home/denove/ASM/OS/QuarkOS32/tools/Inter-VariableFont_opsz,wght.ttf" 
+FONT_FILENAME = "tools/Inter-VariableFont_opsz,wght.ttf" 
 FONT_SIZE = 14
 OUTPUT_FILE = "Asm/boot/font_atlas.bin"
 IMG_WIDTH = 512 
