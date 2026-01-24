@@ -19,6 +19,7 @@ int main(){
         qk_draw_rect(win_id, x, 60, 20, 20, 0xFF00FF00);
 
         qk_sleep(20);
+        
     }
     return 0;
 }
